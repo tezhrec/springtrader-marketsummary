@@ -1,5 +1,7 @@
 # springtrader-marketsummary
 
+push
+
 ## Overview
 
 This repository is for the marketsummary microservice that was taken from the 
