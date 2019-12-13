@@ -16,3 +16,4 @@ deploy:
           istioDomain: "{{.ISTIO_DOMAIN}}"
         setValues:
           hpa.enabled: true
+          canary.enabled: true
